@@ -12,9 +12,6 @@
 ## 🏗️ Architecture
 
 - **Amazon S3** – Stores and serves the static website files (HTML, CSS, JS)
-- *(Optional)* **CloudFront** – Content Delivery Network (CDN) for improved performance
-- *(Optional)* **Route 53** – DNS service for custom domain routing
-
 *Diagram:*
 ![S3 Static Website - Architecture Diagram](https://github.com/user-attachments/assets/246c7b25-5522-49a9-a4aa-121801991f62)
 
