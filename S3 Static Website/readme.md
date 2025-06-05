@@ -1,15 +1,5 @@
 # Static Website on AWS S3
 
-## Overview
-
-Cloud Computing enables on-demand access to computing resources—such as servers, storage, networking, and computing power—without direct active management by the user. Amazon Web Services (AWS), a leading cloud provider, offers a mix of IaaS, PaaS, and SaaS solutions that are flexible, reliable, scalable, easy to use, and cost-effective.
-
-This repository showcases a hands-on project where I implemented a static website hosted on AWS S3 using the AWS Management Console. The goal is to document the configuration process while serving as a personal knowledge base for my journey in cloud engineering.
-
-To protect confidentiality, generic and fictional names such as **Hodan School** are used throughout this project.
-
----
-
 ## 🚀 Project Highlights
 
 - Real-world example of S3 static website hosting
