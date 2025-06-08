@@ -13,7 +13,7 @@
 
 - **Amazon S3** – Stores and serves the static website files (HTML, CSS, JS)
 *Diagram:*
-![S3 Static Website - Architecture Diagram](https://github.com/user-attachments/assets/246c7b25-5522-49a9-a4aa-121801991f62)
+![image](https://github.com/user-attachments/assets/842f9671-a0d5-4819-a87f-4cbbd21af9d1)
 
 
 ---
