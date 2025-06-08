@@ -27,16 +27,6 @@ To provision and manage infrastructure reliably and efficiently, I use:
 This repo serves as both:
 - 📖 A personal knowledge base as I continue growing toward a Cloud Engineer role in Australia
 - 💡 A reference for peers and future teams looking to troubleshoot or implement similar cloud solutions
-
-## Upcoming Projects
-
-Here’s a glimpse of what's coming:
-- ✅ VPC with public/private subnets using Terraform  
-- ✅ EC2 Auto Scaling and Load Balancer setup  
-- ✅ Secure S3 bucket configurations with versioning and lifecycle policies  
-- ✅ IAM role-based access control setup  
-- ✅ Serverless architecture using Lambda and API Gateway  
-
 ---
 
 > ⚡ Feel free to explore, learn, and suggest improvements as I build this into a comprehensive cloud project portfolio.
